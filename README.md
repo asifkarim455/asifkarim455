@@ -26,7 +26,7 @@
 - 📫 **How to reach me**:
   - **LinkedIn**: [Asif Karim](https://www.linkedin.com/in/asifkarim455/)
   - **Portfolio**: [asifkportfolio.netlify.app](https://asifkportfolio.netlify.app/)
-  - **WhatsApp**: [Click to Chat](https://wa.me/yourphonenumber) <!-- Replace 'yourphonenumber' with your actual WhatsApp number -->
+  - **WhatsApp**: [Click to Chat](https://wa.me/9874438318) <!-- Replace 'yourphonenumber' with your actual WhatsApp number -->
 
 - ⚡ **Fun fact**: Besides coding, I'm a keen tech enthusiast and enjoy delving into new frameworks and libraries. Constantly experimenting to make applications more efficient and innovative!
 
@@ -47,6 +47,13 @@
 
 ---
 
+### 🚀 About Native Lab Solutions
+**Native Lab Solutions** is dedicated to empowering businesses with high-quality digital solutions. From mobile apps to web applications, we offer a comprehensive suite of services to help bring innovative ideas to life.
+
+For more, visit our [website](https://nativelabsolutions.com).
+
+---
+
 ### 🌐 Connect with Me!
 <p align="center">
   <a href="https://www.linkedin.com/in/asifkarim455/" target="_blank">
@@ -55,7 +62,7 @@
   <a href="https://asifkportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourphonenumber" target="_blank"> <!-- Replace 'yourphonenumber' with your actual WhatsApp number -->
+  <a href="https://wa.me/9874438318" target="_blank"> <!-- Replace 'yourphonenumber' with your actual WhatsApp number -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
