@@ -1,5 +1,11 @@
+<!-- Animated Cover Image at Top -->
+<p align="center">
+  <img src="assets/pic2.gif" alt="Animated Cover Image" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Asif Karim 👋</h1>
 <h3 align="center">A Passionate Web and Mobile Applications Developer</h3>
+
 
 
 <!-- Typing Animation -->
@@ -9,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+<img align="right" alt="Coding" width="350" src="assets/pic.gif" />
 
 - 🔭 **Currently building dynamic, responsive web & mobile applications** with an emphasis on user-centered design and intuitive interfaces.
   
